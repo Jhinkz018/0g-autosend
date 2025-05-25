@@ -23,16 +23,16 @@ It reads private keys from `pk.txt`, prompts for your main wallet address, and s
 
 ## 📦 Full Setup (Copy & Paste)
 
-```bash
+
 # Clone the repo
-git clone https://github.com/Jhinkz018/0g-autosend.git
-cd 0g-autosend
+```git clone https://github.com/Jhinkz018/0g-autosend.git```
+```cd 0g-autosend```
 
 # Install dependencies
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 # Create private key file
-touch pk.txt
+```touch pk.txt```
 
 # Add private keys (one per line) to pk.txt
 # Example:
